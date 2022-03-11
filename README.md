@@ -1,4 +1,4 @@
-# NotesApp REST API 
+# NotesApp simple REST API 
 
 Site link: Coming soon...
 
@@ -24,3 +24,7 @@ Site link: Coming soon...
 > - Testing API Endpoints (SwaggerUI & Postman)
 > - Docker (Container, Image, Deploying on Docker Hub)
 > - Microsoft Azure (Deployment: Docker Image + Postgres Database)
+> 
+> ### Website Look:
+
+![image](https://github.com/kkaisa/NotesApp/blob/master/NotesApp_Swagger.png?raw=true)
