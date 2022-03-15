@@ -8,6 +8,9 @@
 
 Site link: Coming soon...
 
+#### All the classes and layers are definitely not necessary for this simple app. The purpose of this project is
+#### to train how to think abstractly, in generic terms and in long-term.
+
 ### The purpose of this project is to learn and practice concepts related to:
 > - Building a REST API
 > - .NET Core
