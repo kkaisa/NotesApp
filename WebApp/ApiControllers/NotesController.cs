@@ -119,7 +119,7 @@ namespace WebApp.ApiControllers
             {
                 AppUserId = User.GetUserId()!.Value,
                 Title = note.Title,
-                Description = note.Title
+                Description = note.Description
             };
             _context.Notes.Add(dbEntity);
             await _context.SaveChangesAsync();

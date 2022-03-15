@@ -1,12 +1,12 @@
 # NotesApp simple REST API 
 
-Site link: Coming soon...
-
 #### With a notes app, you can create and store any of your notes for later use.
 
 ### Basic Features
 
 #### User should be able to register an account, log in and create, edit, and delete a note.
+
+Site link: Coming soon...
 
 ### The purpose of this project is to learn and practice concepts related to:
 > - Building a REST API
@@ -25,6 +25,6 @@ Site link: Coming soon...
 > - Docker (Container, Image, Deploying on Docker Hub)
 > - Microsoft Azure (Deployment: Docker Image + Postgres Database)
 > 
-> ### Website Look:
+> ### Swagger:
 
 ![image](https://github.com/kkaisa/NotesApp/blob/master/NotesApp_Swagger.png?raw=true)
